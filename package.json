@@ -1,0 +1,24 @@
+{
+  "name": "learn-knex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/besarthoxhaj/learn-knex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/besarthoxhaj/learn-knex/issues"
+  },
+  "homepage": "https://github.com/besarthoxhaj/learn-knex#readme",
+  "dependencies": {
+    "knex": "^0.12.7",
+    "pg": "^6.1.2"
+  }
+}
